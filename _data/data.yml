@@ -1,0 +1,65 @@
+name: Radomir Obraztsov
+name-in-cyrillic: Радомир Образцов
+
+stopwords:
+  personal-stopwords: ["государственные компании", "госсектор", "state-owned companies", "public sector"]
+  universal-stopwords: ["стажёр", "стажер", "intern", "интерн"]
+
+hardskills:
+  skill:
+    - Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD, Jenkins, Linux, Shell Scripting (Bash)
+    - Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure (Azure), Cloudflare
+    - Python, Go
+    - PostgreSQL, MongoDB, MySQL
+    - Prometheus, Loki, Grafana, Zabbix
+    - n8n, Claude Code, Model Context Protocol (MCP), Git, REST APIs, GraphQL, Jira, Agile
+
+softskills:
+  skill:
+    - Лидерство и стратегическое планирование
+    - Оптимизация затрат и процессов
+    - Автоматизация и устранение ручного труда
+    - Повышение надежности и доступности систем
+    - Ускорение циклов разработки и вывода на рынок
+    - Решение инцидентов и снижение времени простоя
+
+languages:
+  - idiom: English – C1 (CEFR)
+  - idiom: Russian – Native
+  - idiom: Spanish – B2 (CEFR)
+
+bio: |
+  Senior DevOps Engineer с 6+ лет опыта. Сократил инфраструктурные расходы на $18K/месяц, ускорил выпуски релизов с еженедельных до 5 раз в день. Эксперт в AWS, Kubernetes, Terraform и автоматизации CI/CD.
+
+experience:
+  - role: Senior DevOps Engineer
+    time: 2024 – Present
+    company: Veltrix Cloud Solutions
+    details: |
+      Возглавил миграцию в облако на Kubernetes (EKS), сэкономив $18K/месяц на инфраструктурных расходах за счет оптимизации ресурсов и spot-инстансов. Запустил платформу самообслуживания для развертывания, устранив узкое место в адаптации новых сотрудников длительностью 2 недели — теперь новые сервисы запускаются за 4 часа. Сократил количество инцидентов в production на 70% за счет внедрения автоматических canary-развертываний с триггерами отката.
+    details-list:
+      - Amazon Web Services (AWS), Kubernetes, Terraform, Helm, ArgoCD, Prometheus, Grafana, Python
+
+  - role: DevOps Engineer
+    time: 2022 – 2024
+    company: Finova Technologies
+    details: |
+      Автоматизировал проверки соответствия в CI — сократил подготовку к аудиту с 3 недель до 2 дней, сэкономив $40K/год на услугах подрядчиков. Сократил среднее время восстановления (MTTR) с 45 минут до менее 8 минут с помощью автоматизированных runbook'ов для инцидентов, устранив необходимость ручной эскалации во время дежурств. Полностью исключил ручные изменения инфраструктуры — нулевой дрейф конфигураций в течение 18 месяцев, нулевые простои из-за ошибочных конфигураций.
+    details-list:
+      - Amazon Web Services (AWS), Google Cloud Platform (GCP), Terraform, Ansible, GitLab CI/CD, Docker, Go, PostgreSQL
+
+  - role: DevOps Engineer
+    time: 2020 – 2022
+    company: SigmaSoft JSC, Moscow
+    details: |
+      Ускорил цикл выпуска релизов с еженедельного до 5 раз в день за счет контейнеризации 20+ сервисов на Kubernetes — функциональность стала достигать пользователей в 5 раз быстрее. Построил стек observability (Prometheus + Loki + Grafana) — устранил 3 необнаруженных инцидента в production в месяц, каждый из которых ранее требовал вовлечения всей команды для аварийного реагирования. Сократил время выполнения CI-пайплайна с 25 минут до 7 минут, сэкономив инженерной команде ~15 часов/неделю времени ожидания.
+    details-list:
+      - Docker, Kubernetes, GitLab CI/CD, Nginx, Prometheus, Loki, Grafana, Python, PostgreSQL
+
+  - role: Systems Administrator
+    time: ["2018", "2020"]
+    company: InfraTech LLC, Moscow
+    details: |
+      Автоматизировал подготовку серверов с помощью Ansible — сократил время настройки с 2 дней до 30 минут для парка из 150+ серверов на Linux/Windows. Поддерживал доступность 99.9% с нулевыми незапланированными простоями в последние 12 месяцев работы. Настроил мониторинг Zabbix, который обнаружил 3 критических отказа оборудования до потери данных, предотвратив недели незапланированных восстановительных работ.
+    details-list:
+      - Linux, Windows Server, VMware vSphere, Ansible, Zabbix, Shell Scripting (Bash), Python, MySQL
