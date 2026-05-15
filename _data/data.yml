@@ -12,7 +12,7 @@ hardskills:
     - Python, Go
     - PostgreSQL, MongoDB, MySQL
     - Prometheus, Loki, Grafana, Zabbix
-    - n8n, Claude Code, Model Context Protocol (MCP), Git, REST APIs, GraphQL, Jira, Agile
+    - n8n, Claude Code, Model Context Protocol (MCP), Git, REST APIs, GraphQL, Jira, Agile, ArgoCD
 
 softskills:
   skill:
@@ -32,7 +32,7 @@ languages:
 bio: |
   Senior DevOps Engineer with 6+ years of experience. Reduced infrastructure costs by $18K/month, accelerated release cycles from weekly to 5 times per day. Expert in AWS, Kubernetes, Terraform, and CI/CD automation.
 
-contacts:
+contact:
   phone: +54 911 3269-0172
   telegram: "@Raaad_R"
   email: radomir.obraztsov@reverse-ats.com
