@@ -16,27 +16,33 @@ hardskills:
 
 softskills:
   skill:
-    - Лидерство и стратегическое планирование
-    - Оптимизация затрат и процессов
-    - Автоматизация и устранение ручного труда
-    - Повышение надежности и доступности систем
-    - Ускорение циклов разработки и вывода на рынок
-    - Решение инцидентов и снижение времени простоя
+    - Leadership and strategic planning
+    - Cost and process optimization
+    - Automation and elimination of manual labor
+    - Improving system reliability and availability
+    - Accelerating development and time-to-market cycles
+    - Incident resolution and downtime reduction
 
 languages:
   - idiom: English – C1 (CEFR)
   - idiom: Russian – Native
   - idiom: Spanish – B2 (CEFR)
+  - idiom: German – B1 (CEFR)
 
 bio: |
-  Senior DevOps Engineer с 6+ лет опыта. Сократил инфраструктурные расходы на $18K/месяц, ускорил выпуски релизов с еженедельных до 5 раз в день. Эксперт в AWS, Kubernetes, Terraform и автоматизации CI/CD.
+  Senior DevOps Engineer with 6+ years of experience. Reduced infrastructure costs by $18K/month, accelerated release cycles from weekly to 5 times per day. Expert in AWS, Kubernetes, Terraform, and CI/CD automation.
+
+contacts:
+  phone: +54 911 3269-0172
+  telegram: "@Raaad_R"
+  email: radomir.obraztsov@reverse-ats.com
 
 experience:
   - role: Senior DevOps Engineer
     time: 2024 – Present
     company: Veltrix Cloud Solutions
     details: |
-      Возглавил миграцию в облако на Kubernetes (EKS), сэкономив $18K/месяц на инфраструктурных расходах за счет оптимизации ресурсов и spot-инстансов. Запустил платформу самообслуживания для развертывания, устранив узкое место в адаптации новых сотрудников длительностью 2 недели — теперь новые сервисы запускаются за 4 часа. Сократил количество инцидентов в production на 70% за счет внедрения автоматических canary-развертываний с триггерами отката.
+      Led a cloud migration to Kubernetes (EKS), saving $18K/month on infrastructure costs through resource optimization and spot instances. Launched a self-service deployment platform, eliminating a 2-week new hire onboarding bottleneck — new services now launch in 4 hours. Reduced production incidents by 70% by implementing automated canary deployments with rollback triggers.
     details-list:
       - Amazon Web Services (AWS), Kubernetes, Terraform, Helm, ArgoCD, Prometheus, Grafana, Python
 
@@ -44,7 +50,7 @@ experience:
     time: 2022 – 2024
     company: Finova Technologies
     details: |
-      Автоматизировал проверки соответствия в CI — сократил подготовку к аудиту с 3 недель до 2 дней, сэкономив $40K/год на услугах подрядчиков. Сократил среднее время восстановления (MTTR) с 45 минут до менее 8 минут с помощью автоматизированных runbook'ов для инцидентов, устранив необходимость ручной эскалации во время дежурств. Полностью исключил ручные изменения инфраструктуры — нулевой дрейф конфигураций в течение 18 месяцев, нулевые простои из-за ошибочных конфигураций.
+      Automated compliance checks in CI — reduced audit preparation from 3 weeks to 2 days, saving $40K/year on contractor services. Reduced Mean Time to Recovery (MTTR) from 45 minutes to under 8 minutes with automated incident runbooks, eliminating the need for manual escalation during on-call. Completely eliminated manual infrastructure changes — zero configuration drift for 18 months, zero downtime due to misconfigurations.
     details-list:
       - Amazon Web Services (AWS), Google Cloud Platform (GCP), Terraform, Ansible, GitLab CI/CD, Docker, Go, PostgreSQL
 
@@ -52,7 +58,7 @@ experience:
     time: 2020 – 2022
     company: SigmaSoft JSC, Moscow
     details: |
-      Ускорил цикл выпуска релизов с еженедельного до 5 раз в день за счет контейнеризации 20+ сервисов на Kubernetes — функциональность стала достигать пользователей в 5 раз быстрее. Построил стек observability (Prometheus + Loki + Grafana) — устранил 3 необнаруженных инцидента в production в месяц, каждый из которых ранее требовал вовлечения всей команды для аварийного реагирования. Сократил время выполнения CI-пайплайна с 25 минут до 7 минут, сэкономив инженерной команде ~15 часов/неделю времени ожидания.
+      Accelerated release cycles from weekly to 5 times per day by containerizing 20+ services on Kubernetes — functionality reached users 5 times faster. Built an observability stack (Prometheus + Loki + Grafana) — eliminated 3 undetected production incidents per month, each of which previously required full-team emergency response. Reduced CI pipeline runtime from 25 minutes to 7 minutes, saving the engineering team ~15 hours/week of waiting time.
     details-list:
       - Docker, Kubernetes, GitLab CI/CD, Nginx, Prometheus, Loki, Grafana, Python, PostgreSQL
 
@@ -60,6 +66,6 @@ experience:
     time: ["2018", "2020"]
     company: InfraTech LLC, Moscow
     details: |
-      Автоматизировал подготовку серверов с помощью Ansible — сократил время настройки с 2 дней до 30 минут для парка из 150+ серверов на Linux/Windows. Поддерживал доступность 99.9% с нулевыми незапланированными простоями в последние 12 месяцев работы. Настроил мониторинг Zabbix, который обнаружил 3 критических отказа оборудования до потери данных, предотвратив недели незапланированных восстановительных работ.
+      Automated server provisioning with Ansible — reduced setup time from 2 days to 30 minutes for a fleet of 150+ Linux/Windows servers. Maintained 99.9% availability with zero unplanned downtime in the last 12 months of operation. Configured Zabbix monitoring that detected 3 critical hardware failures before data loss, preventing weeks of unplanned recovery work.
     details-list:
       - Linux, Windows Server, VMware vSphere, Ansible, Zabbix, Shell Scripting (Bash), Python, MySQL
