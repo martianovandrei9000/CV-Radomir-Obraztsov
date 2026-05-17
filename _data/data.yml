@@ -30,7 +30,7 @@ languages:
   - idiom: German – B1 (CEFR)
 
 bio: |
-  Senior DevOps Engineer with 6+ years of experience. Reduced infrastructure costs by $18K/month, accelerated release cycles from weekly to 5 times per day. Expert in AWS, Kubernetes, Terraform, and CI/CD automation.
+  DevOps Engineer with 6+ years of experience. Reduced infrastructure costs by $18K/month, accelerated release cycles from weekly to 5 times per day. Expert in AWS, Kubernetes, Terraform, and CI/CD automation.
 
 contact:
   phone: +54 911 3269-0172
@@ -38,7 +38,7 @@ contact:
   email: radomir.obraztsov@reverse-ats.com
 
 experience:
-  - role: Senior DevOps Engineer
+  - role: DevOps Engineer
     time: 2024 – Present
     company: Veltrix Cloud Solutions
     details: |
